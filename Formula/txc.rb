@@ -1,10 +1,10 @@
 class Txc < Formula
   desc "A simple tool for converting text between different formats."
   homepage "https://github.com/stounfo/txc"
-  version "0.1.0"
+  version "0.1.1"
   license "WTFPL"
-  url "https://github.com/stounfo/txc/archive/refs/tags/v0.1.0.zip"
-  sha256 "d04f04ab9c9fcbef56452f658870076257cd1497b1c2d046702eff86d923ed7b"
+  url "https://github.com/stounfo/txc/archive/refs/tags/v0.1.1.zip"
+  sha256 "8dc4a8eef8e6ecd76b28f8e2851349e717626b7ffdd0dc851559e795f8d8040c"
 
   depends_on "rust" => :build
 
